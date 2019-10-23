@@ -1,0 +1,10 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="Android/Override Resource in Other Configuration..." />
+    <ignoreAction name="XML/Fetch external resource" />
+    <ignoreAction name="XML/Rearrange tag attributes" />
+    <ignoreAction name="XML/Remove tag" />
+    <ignoreAction name="XML/Collapse empty tag" />
+  </component>
+</application>
