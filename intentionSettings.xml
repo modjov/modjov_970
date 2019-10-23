@@ -6,5 +6,7 @@
     <ignoreAction name="XML/Rearrange tag attributes" />
     <ignoreAction name="XML/Remove tag" />
     <ignoreAction name="XML/Collapse empty tag" />
+    <ignoreAction name="Language Injection/Un-inject Language/Reference" />
+    <ignoreAction name="Language Injection/Edit Injection Settings" />
   </component>
 </application>
